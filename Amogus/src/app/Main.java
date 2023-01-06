@@ -8,6 +8,7 @@ import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 import javafx.stage.StageStyle;
 
+
 public class Main extends Application {
 	
 	public static Stage stage;
@@ -47,6 +48,7 @@ public class Main extends Application {
 		initComponents();
 		stage.setScene(scene);
 		stage.show();
+		
 	}
 
 }
